@@ -1,0 +1,27 @@
+/* All Tag Styling */
+h1 {
+    text-align: center;
+}
+p {
+    color: red;
+    text-transform: uppercase;
+    text-align: justify;
+}
+
+/*Selector Class Styling */
+.navBar {
+    background-color: magenta;
+}
+
+.Jumbotron {
+    background-color: blueviolet;
+}
+
+.Footer-navBar {
+    background-color: aquamarine;
+}
+/*
+Note:
+. itu buat class, bisa digunakan untuk komponen lebih dari satu
+# itu buat ID, ID itu unik, cuman boleh ada satu di satu komponen
+*/
